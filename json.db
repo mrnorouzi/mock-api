@@ -1,0 +1,21 @@
+[
+	"site-templates": [
+		{
+			"title": "قالب مادو",
+			"price": 23000,
+			"image": "https://files.rtl-theme.com/products/covers/2020/05/53360_b3fed5127ff8892d7a6c61ced.jpg"
+		},
+		{
+			"title": "قالب اورمان",
+			"price": 39000,
+			"image": "https://files.rtl-theme.com/products/covers/2020/05/66148_bbd9bd8925e6fcfa41dedeba1-2.jpg"
+		},
+		{
+			"title": "قالب لینا",
+			"price": 46000,
+			"image": "https://files.rtl-theme.com/products/covers/2020/03/12630_f3be0d641bc89d9b6a5280ced-1.png"
+		},
+
+
+	]
+]
