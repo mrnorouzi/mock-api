@@ -1,5 +1,5 @@
 [
-	"site-templates": [
+	"site-templates" : [
 		{
 			"title": "قالب مادو",
 			"price": 23000,
@@ -14,8 +14,7 @@
 			"title": "قالب لینا",
 			"price": 46000,
 			"image": "https://files.rtl-theme.com/products/covers/2020/03/12630_f3be0d641bc89d9b6a5280ced-1.png"
-		},
-
+		}
 
 	]
 ]
