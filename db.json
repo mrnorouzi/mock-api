@@ -1,16 +1,22 @@
 {
 	"site-templates" : [
 		{
+			"ID":"1",
+			"uuid": "10de86bf-a422-4361-9080-55b16f683745",
 			"title": "قالب مادو",
 			"price": 23000,
 			"image": "https://files.rtl-theme.com/products/covers/2020/05/53360_b3fed5127ff8892d7a6c61ced.jpg"
 		},
 		{
+			"ID":"2",
+			"uuid": "bf787f33-1949-478f-a68b-6d245e164103",
 			"title": "قالب اورمان",
 			"price": 39000,
 			"image": "https://files.rtl-theme.com/products/covers/2020/05/66148_bbd9bd8925e6fcfa41dedeba1-2.jpg"
 		},
 		{
+			"ID":"3",
+			"uuid": "97135ba4-baee-469d-9728-c344b8f95a16",
 			"title": "قالب لینا",
 			"price": 46000,
 			"image": "https://files.rtl-theme.com/products/covers/2020/03/12630_f3be0d641bc89d9b6a5280ced-1.png"
